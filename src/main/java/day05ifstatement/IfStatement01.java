@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class IfStatement01 {
     public static void main(String[] args) {
+
+
         Scanner imput = new Scanner(System.in);
         System.out.println("Lutfen bir sayı giriniz");
         int sayi = imput.nextInt();

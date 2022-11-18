@@ -3,6 +3,9 @@ package day15arraysmultidimesionalarrays;
 import java.util.Arrays;
 
 public class Arrays01 {
+
+
+    
     public static void main(String[] args) {
         //binarySearch() Method: Bu method'u kullnarak bir elemanin Array'de olup olmadigini anlariz.
         //                       binarySearch() Method'unu kullanmadan once mutlaka "Arrays.sort()" kullanilmalidir.
@@ -13,7 +16,7 @@ public class Arrays01 {
 
         //                       binarySearch() Method'u tekrarlayan elemanlar icin kullanilmaz.
 
-        int arr[] ={12,31,43,14};
+      int arr[] ={12,31,43,14};
         int sayi =43;
         Arrays.sort(arr);//[12,14,31,43]
 
